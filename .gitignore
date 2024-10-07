@@ -1,0 +1,24 @@
+# dependencies
+/1.Redux (State Management)/node_modules
+/1.Redux (State Management)/.pnp
+/1.Redux (State Management).pnp.js
+
+# testing
+/1.Redux (State Management)/coverage
+
+# production
+/1.Redux (State Management)/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -------------------------------------------------------------------
+
